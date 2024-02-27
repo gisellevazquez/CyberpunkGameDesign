@@ -1,0 +1,5 @@
+# Level Design
+
+
+
+<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Level Design 101</td><td></td><td></td><td><a href="level-design-101.md">level-design-101.md</a></td><td><a href="../../.gitbook/assets/UI (1).png">UI (1).png</a></td></tr><tr><td>Miles Tost - GDC 2023</td><td></td><td></td><td><a href="miles-tost-gdc-2023.md">miles-tost-gdc-2023.md</a></td><td><a href="../../.gitbook/assets/UI (3).png">UI (3).png</a></td></tr><tr><td>How I design levels - Max Pears</td><td></td><td></td><td><a href="how-i-design-levels-video.md">how-i-design-levels-video.md</a></td><td><a href="../../.gitbook/assets/UI (4).png">UI (4).png</a></td></tr><tr><td>Applying UX principles to level design</td><td></td><td></td><td><a href="applying-ux-principles-to-level-design.md">applying-ux-principles-to-level-design.md</a></td><td><a href="../../.gitbook/assets/UX.png">UX.png</a></td></tr></tbody></table>
