@@ -23,6 +23,6 @@ This wiki attempts to collect Cyberpunk 2077 information about the Design aspect
 Explore the design aspect of the Cyberpunk world through this Wiki, where is compiled a wealth of information, without delving into the technicalities of coding levels or quests.
 
 {% hint style="warning" %}
-This wiki stills on development February 2024
+This wiki stills on development March 2024
 {% endhint %}
 
