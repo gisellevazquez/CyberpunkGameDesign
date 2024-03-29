@@ -2,7 +2,7 @@
 description: A link to GDC talk
 ---
 
-# ✨ Pawel Sasko - GDC 2023
+# Pawel Sasko - GDC 2023
 
 {% embed url="https://youtu.be/nAkH86__g0o" %}
 

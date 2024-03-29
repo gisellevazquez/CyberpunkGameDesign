@@ -4,7 +4,7 @@ description: >-
   Sinnerman quest.
 ---
 
-# ⛪ Sinnerman Quest Design - Video 2023
+# Sinnerman Quest Design - Video 2023
 
 
 

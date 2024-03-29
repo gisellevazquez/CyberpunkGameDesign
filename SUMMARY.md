@@ -18,13 +18,15 @@
 ## 🫕 Cyberpunk Design resources
 
 * [Quest Design](cyberpunk-design-resources/quest-design/README.md)
-  * [✨ Pawel Sasko - GDC 2023](cyberpunk-design-resources/quest-design/pawel-sasko-gdc-2023.md)
-  * [⛪ Sinnerman Quest Design - Video 2023](cyberpunk-design-resources/quest-design/sinnerman-quest-design-video-2023.md)
+  * [Pawel Sasko - GDC 2023](cyberpunk-design-resources/quest-design/pawel-sasko-gdc-2023.md)
+  * [Sinnerman Quest Design - Video 2023](cyberpunk-design-resources/quest-design/sinnerman-quest-design-video-2023.md)
   * [What makes a great quest great!](cyberpunk-design-resources/quest-design/what-makes-a-great-quest-great.md)
   * [Constructing characters for The Witcher 3 and Cyberpunk 2077](cyberpunk-design-resources/quest-design/constructing-characters-for-the-witcher-3-and-cyberpunk-2077.md)
+  * [Creating Captivating Stories](cyberpunk-design-resources/quest-design/creating-captivating-stories.md)
+  * [How Do Voice Actors Bring Characters to Life](cyberpunk-design-resources/quest-design/how-do-voice-actors-bring-characters-to-life.md)
 * [Level Design](cyberpunk-design-resources/level-design/README.md)
   * [Level design 101](cyberpunk-design-resources/level-design/level-design-101.md)
-  * [✨ Miles Tost - GDC 2023](cyberpunk-design-resources/level-design/miles-tost-gdc-2023.md)
+  * [Miles Tost - GDC 2023](cyberpunk-design-resources/level-design/miles-tost-gdc-2023.md)
   * [How i design levels - Video](cyberpunk-design-resources/level-design/how-i-design-levels-video.md)
   * [Applying UX principles to level design](cyberpunk-design-resources/level-design/applying-ux-principles-to-level-design.md)
 * [Panthom Liberty Expansion](cyberpunk-design-resources/panthom-liberty-expansion/README.md)

@@ -15,6 +15,6 @@ Hosts [Sebastian Kalemba](https://www.linkedin.com/in/ACoAAAIWiYQBDWU3bzcNXJgbBr
 
 {% embed url="https://youtu.be/bphFsoKBMB0" %}
 
-Or hear the podcast on Spotify: \
+Or listen to the podcast on Spotify: \
 [https://open.spotify.com/episode/6IVuJtmmmBzpFhuvVP7bs6](https://open.spotify.com/episode/6IVuJtmmmBzpFhuvVP7bs6)
 

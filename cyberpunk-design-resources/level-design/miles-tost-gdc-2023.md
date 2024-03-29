@@ -1,4 +1,4 @@
-# ✨ Miles Tost - GDC 2023
+# Miles Tost - GDC 2023
 
 On this link below there's a video of Miles Tost (Former Cyberpunk 2077 Sr. level designer, and actual Lead Level designer for Panthom Liberty and new Witcher game)
 
