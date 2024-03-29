@@ -6,7 +6,7 @@
 
 ## 🚲 Generic Game Design
 
-* [Pre-production.](generic-game-design/pre-production..md)
+* [Pre-production](generic-game-design/pre-production.md)
 * [Write the story](generic-game-design/write-the-story/README.md)
   * [Page 1](generic-game-design/write-the-story/page-1.md)
   * [Page 2](generic-game-design/write-the-story/page-2.md)

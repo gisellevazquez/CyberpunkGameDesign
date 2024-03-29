@@ -1,7 +1,20 @@
 ---
-cover: ../../.gitbook/assets/Frame 247.png
+cover: ../../.gitbook/assets/Frame 247 (2).png
 coverY: 0
-layout: landing
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Quest Design

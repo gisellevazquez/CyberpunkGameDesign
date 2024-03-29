@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/World.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # World Setting & Wikis
 
 
@@ -6,7 +25,7 @@
 
 
 
-***
+<figure><img src="../../.gitbook/assets/Normal.png" alt=""><figcaption></figcaption></figure>
 
 ### Links for understanding CP2077 world and setting: 
 
@@ -14,4 +33,5 @@
 [cyberpunk.fandom.com](https://cyberpunk.fandom.com)
 
 [Mind map of the world](https://bioskop.notion.site/Cyberpunk-Research-dfb0dd00cfc2413e96dd5f03745d09e4)\
+\
 [Other texts (from Cyberpunk World)](https://bioskop.notion.site/Research-Methods-35f0eb03da8341feb843698429fae09b)

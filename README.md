@@ -1,6 +1,20 @@
 ---
-cover: .gitbook/assets/photomode_02102023_201002.png
+cover: .gitbook/assets/WikiBanner.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 👋 Hello
