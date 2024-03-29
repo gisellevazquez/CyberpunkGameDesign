@@ -40,6 +40,7 @@
   * [Neo Militarism](cyberpunk-design-resources/style/neo-militarism.md)
   * [Neo Kitsch](cyberpunk-design-resources/style/neo-kitsch.md)
 * [Other Sources](cyberpunk-design-resources/other-sources/README.md)
+  * [14 Things I Wish I Knew When I Started ‘Cyberpunk 2077’ (CDPR Dev Edition)](cyberpunk-design-resources/other-sources/14-things-i-wish-i-knew-when-i-started-cyberpunk-2077-cdpr-dev-edition.md)
   * [How Cyberpunk 2077 Changed CDPR](cyberpunk-design-resources/other-sources/how-cyberpunk-2077-changed-cdpr.md)
 
 ## Edit Wiki Tools
